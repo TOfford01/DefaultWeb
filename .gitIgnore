@@ -2,3 +2,6 @@ bin/
 
 #Includes the Resources folder 
 !Resources/includes/*
+
+#Make sure to ignore "notes"
+Resources/includes/notes.txt
