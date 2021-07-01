@@ -1,4 +1,4 @@
-bin/
+[Bb]in/
 
 #Includes the Resources folder 
 !Resources/includes/*
